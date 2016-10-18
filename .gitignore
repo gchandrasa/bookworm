@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+*.sqlite
+*.sqlite3
+bookworm/settings/local.py
